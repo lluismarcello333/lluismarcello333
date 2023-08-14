@@ -1,7 +1,6 @@
 # Olá! Eu sou o Luiz Marcelo 👋
 
 - 🔭 Hoje eu sou FullStack Developer
-- 🌱 Estudo JavaScript
 - 📫 Contate-me no email: lluismarcello333@gmail.com
 
 <div align="center">
