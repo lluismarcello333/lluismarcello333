@@ -30,6 +30,7 @@
 
 <!-- GithubStats -->
 ![Luiz Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=lluismarcello333&show_icons=true&theme=gotham)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluismarcello333&layout=compact&hide_border=true&&theme=gotham" />
 
 <!-- GithubGraph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lluismarcello333&bg_color=0d1117&color=87A453&line=2AA889&point=E6EDF3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
