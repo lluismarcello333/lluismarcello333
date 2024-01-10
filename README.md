@@ -59,10 +59,10 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Grafana" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png">
-    <img align="center" alt="Datadog" height="30" width="40" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_purple.png">
+    <img align="center" alt="Datadog" height="30" width="30" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_purple.png">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png">
-    <img align="center" alt="Dbeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png">
+    <img align="center" alt="Figma" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png">
+    <img align="center" alt="Dbeaver" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png">
   </div>
   
   <!-- Skills: Libraries -->
