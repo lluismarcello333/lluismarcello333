@@ -31,6 +31,9 @@
 <!-- GithubStats -->
 ![Luiz Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=lluismarcello333&show_icons=true&theme=gotham)
 
+<!-- GithubGraph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lluismarcello333&bg_color=0d1117&color=87A453&line=2AA889&point=E6EDF3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- Portfolio -->
 ## Portfolio:
 - [Weather forecast](https://github.com/lluismarcello333/Previsao-do-Tempo)
