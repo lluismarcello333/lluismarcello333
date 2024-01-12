@@ -41,7 +41,7 @@
 - [Ship Game](https://github.com/lluismarcello333/Jogo-de-Naves)
 - [Pokedex](https://github.com/lluismarcello333/Pokedex)
 - [Curriculum](https://github.com/lluismarcello333/Curriculo_En)
-- [LibraryMovies](https://github.com/lluismarcello333/LibraryMovie)
+- [MoviesLib](https://github.com/lluismarcello333/LibraryMovie)
 
 <!-- GIF -->
 <p align="left">
